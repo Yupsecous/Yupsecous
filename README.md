@@ -2,7 +2,7 @@
 ````markdown
 # 👋 Welcome to my GitHub Page! <br />
 
-I am a **diligent software engineer and AI developer** with **over 9 years of experience** in building **cutting-edge AI systems, full-stack applications, and decentralized infrastructure** for global clients.  
+I am a diligent software engineer and AI developer with over 10 years of experience in building cutting-edge AI systems, full-stack applications, and decentralized infrastructure for global clients.  
 I specialize in **LLM-powered applications, autonomous agents, real-time systems, and blockchain intelligence**.  
 Unfortunately, many of my production projects are closed-source — but feel free to explore my public repositories below.
 
